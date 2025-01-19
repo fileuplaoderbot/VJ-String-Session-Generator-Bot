@@ -11,7 +11,8 @@
 
 ### Commands
 
- <b>
+<b>
+ 
 ```
 - start - check bot is alive or not
 - generate - generate a string session 
