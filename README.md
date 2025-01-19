@@ -16,9 +16,10 @@
 ```
 - start - check bot is alive or not
 - generate - generate a string session 
-- broadcast - broadcast a message to all bot users (owner only)</b>
+- broadcast - broadcast a message to all bot users (owner only)
 
 ```
+</b>
 
 ###  Variables
 
