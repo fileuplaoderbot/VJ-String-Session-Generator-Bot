@@ -26,4 +26,4 @@
 
 ## Credits
 
-- <b>[Tech VJ](https://youtube.com/@Tech_VJ)</b>
+- <b>[Movie Horn](https://youtube.com/@MovirHorn1)</b>
